@@ -1,7 +1,7 @@
 [project]
 name = "ifc-mcp"
 version = "0.1.0"
-description = "Add your description here"
+description = "IFC MCP Server"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
