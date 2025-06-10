@@ -1,0 +1,1 @@
+from .consts import success, fail, res
